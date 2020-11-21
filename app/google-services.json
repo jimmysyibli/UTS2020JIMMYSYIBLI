@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362366284818",
+    "firebase_url": "https://uts-jimmysyibli-eaecb.firebaseio.com",
+    "project_id": "uts-jimmysyibli-eaecb",
+    "storage_bucket": "uts-jimmysyibli-eaecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362366284818:android:1f60ed5c4fde44d35814cb",
+        "android_client_info": {
+          "package_name": "com.example.uts_amub_ti7jm_1711500138_jimmy_syibli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362366284818-brrsjf2ni35rbq0pronmqucbe84metbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU71i2CSMwLdtdFOMX9AOMnUJp_8NLNaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362366284818-brrsjf2ni35rbq0pronmqucbe84metbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
